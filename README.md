@@ -1,20 +1,29 @@
-Smart contracts I developed for fun (or scam...nah joking, fuck speculators).
+## $PAU tokens
 
-Each contract tells in which chain are deployed, but the main chains I use are:
+Total supply: 1000
+No decimals bullshit, just 1000 coins, simple.
 
-- cheapETH, BNB Testnet, BNB Main net
+This is not a coin to scam or to welcome speculators, it's just the coin of Pau. 
+Monetary speaking it's not worth a shit, but in the future there will be premium services created by Pau that will only accept $PAU or paying a lot in $ETH. 
+So yeah, given the small amount of supply, if there is no more free supply this token can end up worthing a lot indirectly (if using my future services/projects).
+
+- Contract -> 0xedde9c26faa7c63967aa9dcdcaaac1759e5315d8
+
+- https://bscscan.com/token/0xedde9c26faa7c63967aa9dcdcaaac1759e5315d8
+
+- https://poocoin.app/tokens/0xedde9c26faa7c63967aa9dcdcaaac1759e5315d8
+
 
 ---
 
-### $PAU tokens
 
-0x3A8a302A73E034f785aA8e415A592A809e29dCbd
+Main chains I use are:
 
-https://testnet.bscscan.com/token/0x3a8a302a73e034f785aa8e415a592a809e29dcbd
+- cheapETH, BNB Main net
 
-
-- if you love me you can send me cheapETH, bnb, eth to:
+### if you love me you can send me cheapETH, bnb, eth to:
 
 0xc81603932347159B3609B7373cc82c3757Ae99f9
+
 
 
